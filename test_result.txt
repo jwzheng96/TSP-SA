@@ -1,0 +1,2 @@
+type of cities:  <class 'list'>
+type of cities[0]:  <class 'tuple'>
