@@ -1,2 +1,2 @@
 # TSP-SA
-使用模拟退火以及遗传算法解决TSP问题
+Using simulated annealing algorithm and genetic algorithm to solve TSP problem
